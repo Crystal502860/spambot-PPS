@@ -1,4 +1,4 @@
 {
-  "botToken": [ "YOUR_TOKEN_HERE", "if you want multiple accounts, put any other tokens here" ],
-  "prefix": "/"
+  "botToken": [ "OTM5ODk3MDYyMzQwODQ5Njg0.GheAb0._QaCX1VNZAoVy8EXetM4ot2SaqgYTwleQL3q6I" ],
+  "prefix": "^"
 }
